@@ -1,0 +1,2 @@
+# discordbot_test
+discordbotを作ってみたいと思ったのでテストとして最初に作ります
